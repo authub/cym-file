@@ -1,0 +1,36 @@
+{
+    "titleIcon": "https://gitee.com/au_t/cym-file/raw/master/titleIcon.jpg",
+    "userInfo": {
+        "userName": "tuanyu",
+        "mobilePhone": "13767530839",
+        "vxErWeiMaUrl": "https://gitee.com/au_t/cym-file/raw/master/vxErWeiMa.jpg",
+        "icon": "https://gitee.com/au_t/cym-file/raw/master/images/contactus/contactLeft.jpg"
+    },
+    "imageAndTextList": [
+        {
+            "leftImage": "https://gitee.com/au_t/cym-file/raw/master/images/contactus/addressLeft.jpg",
+            "rightText": "江西省宜春市丰城白土镇车上村",
+            "leftImageWidth": "210px",
+            "leftImageHeight": "150px",
+            "rightTextWidth": "430px",
+            "leftImageHeight": "150px",
+            "leftOrRight": false
+        },
+        {
+            "leftImage": "https://gitee.com/au_t/cym-file/raw/master/images/contactus/mailLeft.jpg",
+            "rightText": "au.t@foxmail.com",
+            "leftImageWidth": "210px",
+            "leftImageHeight": "150px",
+            "rightTextWidth": "430px",
+            "leftImageHeight": "150px"
+        },
+        {
+            "leftImage": "https://gitee.com/au_t/cym-file/raw/master/images/contactus/websiteLeft.jpg",
+            "rightText": "au.t@foxmail.com",
+            "leftImageWidth": "210px",
+            "leftImageHeight": "150px",
+            "rightTextWidth": "430px",
+            "leftImageHeight": "150px"
+        }
+    ]
+}

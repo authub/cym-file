@@ -1,0 +1,45 @@
+{
+    "titleIcon": "https://gitee.com/au_t/cym-file/raw/master/titleIcon.jpg",
+    "imageList": [
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/aLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/aRight.jpg"
+        },
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/bLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/bRight.jpg"
+        },
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/cLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/cRight.jpg"
+        },
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/dLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/dRight.jpg"
+        },
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/eLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/eRight.jpg"
+        },
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/fLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/fRight.jpg"
+        },
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/gLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/gRight.jpg"
+        },
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/hLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/hRight.jpg"
+        },
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/iLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/iRight.jpg"
+        },
+        {
+            "left": "https://gitee.com/au_t/cym-file/raw/master/images/produce/jLeft.jpg",
+            "right": "https://gitee.com/au_t/cym-file/raw/master/images/produce/jRight.jpg"
+        }
+    ]
+}
