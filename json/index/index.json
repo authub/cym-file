@@ -1,28 +1,28 @@
 {
-    "logo": "https://gitee.com/au_t/cym-file/raw/master/logo.jpg",
-    "titleIcon":"https://gitee.com/au_t/cym-file/raw/master/titleIcon.jpg",
-    "title": "https://gitee.com/au_t/cym-file/raw/master/images/index/title.jpg",
+    "logo": "https://raw.githubusercontent.com/authub/cym-file/master/logo.jpg",
+    "titleIcon":"https://raw.githubusercontent.com/authub/cym-file/master/titleIcon.jpg",
+    "title": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/title.jpg",
     "imageList": [
         {
-            "left": "https://gitee.com/au_t/cym-file/raw/master/images/index/aLeft.jpg",
-            "right": "https://gitee.com/au_t/cym-file/raw/master/images/index/aRight.jpg"
+            "left": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/aLeft.jpg",
+            "right": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/aRight.jpg"
         },
         {
-            "left": "https://gitee.com/au_t/cym-file/raw/master/images/index/bLeft.jpg",
-            "right": "https://gitee.com/au_t/cym-file/raw/master/images/index/bRight.jpg"
+            "left": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/bLeft.jpg",
+            "right": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/bRight.jpg"
         },
         {
-            "left": "https://gitee.com/au_t/cym-file/raw/master/images/index/cLeft.jpg",
-            "right": "https://gitee.com/au_t/cym-file/raw/master/images/index/cRight.jpg"
+            "left": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/cLeft.jpg",
+            "right": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/cRight.jpg"
         },
         {
-            "left": "https://gitee.com/au_t/cym-file/raw/master/images/index/dLeft.jpg",
-            "right": "https://gitee.com/au_t/cym-file/raw/master/images/index/dRight.jpg"
+            "left": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/dLeft.jpg",
+            "right": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/dRight.jpg"
         },
         {
-            "left": "https://gitee.com/au_t/cym-file/raw/master/images/index/eLeft.jpg",
-            "right": "https://gitee.com/au_t/cym-file/raw/master/images/index/eRight.jpg"
+            "left": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/eLeft.jpg",
+            "right": "https://raw.githubusercontent.com/authub/cym-file/master/images/index/eRight.jpg"
         }
     ],
-    "vxErWeiMaUrl": "https://gitee.com/au_t/cym-file/raw/master/vxErWeiMa.jpg"
+    "vxErWeiMaUrl": "https://raw.githubusercontent.com/authub/cym-file/master/vxErWeiMa.jpg"
 }
